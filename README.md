@@ -1,2 +1,2 @@
-# desicon
-indian font icons
+# Desicon
+a indian web font icons
